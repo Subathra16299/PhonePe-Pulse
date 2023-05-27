@@ -1,0 +1,6 @@
+**Requirements**
+snscrape
+pandas
+pymongo
+datetime
+streamlit
